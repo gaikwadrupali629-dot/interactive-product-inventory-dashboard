@@ -1,0 +1,10 @@
+{
+  "name": "interactive-product-inventory-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "JavaScript capstone mini project demonstrating core JavaScript concepts.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT"
+}
